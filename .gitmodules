@@ -1,0 +1,9 @@
+[submodule "slither"]
+	path = slither
+	url = https://github.com/imranpollob/slither
+[submodule "smart-contract-vulnerability-dataset"]
+	path = smart-contract-vulnerability-dataset
+	url = https://github.com/imranpollob/smart-contract-vulnerability-dataset
+[submodule "foundry/lib/forge-std"]
+	path = foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
