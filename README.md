@@ -1,8 +1,20 @@
 # TimeTrace
 Smart contract time manipulation vulnerability detection tools
 
+## Cloning the project
+```bash
+git clone --recurse-submodules <repository-url>
+```
 
-### Submodules
+### Initialize and update submodules
+```bash
+git submodule update --init --recursive
+# pull changes
+git pull --recurse-submodules
+```
+
+
+## Submodules
 ```bash
 # add an existing repo as a submodule
 git submodule add <repo-url> path/to/submodule
